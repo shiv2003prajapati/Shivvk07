@@ -1,4 +1,4 @@
 # Shivvk07
 This is my my first Git Repository.
 <br>
-Author - Shiv (SKP)
+Author - Shiv Kumar (SKP)
